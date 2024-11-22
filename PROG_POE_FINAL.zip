@@ -5,3 +5,11 @@
     - Extracted contents to local development directory
     - Verified all files and folders are present
     - Added .gitignore file for Visual Studio
+
+# Commit 2
+    Update project files to .NET 8
+    
+    - Updated target framework in .csproj to net8.0
+    - Verified SDK version compatibility
+    - Updated NuGet package references to .NET 8 versions
+    - Removed deprecated package references
