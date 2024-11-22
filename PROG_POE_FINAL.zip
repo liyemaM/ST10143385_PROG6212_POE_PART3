@@ -13,3 +13,11 @@
     - Verified SDK version compatibility
     - Updated NuGet package references to .NET 8 versions
     - Removed deprecated package references
+
+# Commit 3
+    Configure local development environment
+    
+    - Added appsettings.Development.json
+    - Updated connection strings for local database
+    - Configured user secrets for sensitive data
+    - Set environment variables for local development
