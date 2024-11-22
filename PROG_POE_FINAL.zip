@@ -1,1 +1,7 @@
-
+# Commit 1
+    Initial commit: Extract GitHub ZIP file
+    
+    - Downloaded ZIP file from GitHub repository
+    - Extracted contents to local development directory
+    - Verified all files and folders are present
+    - Added .gitignore file for Visual Studio
