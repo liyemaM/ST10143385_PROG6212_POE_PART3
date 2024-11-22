@@ -35,5 +35,13 @@
     
     - Generated new development SSL certificate
     - Updated IIS Express SSL port
+
+# Commit 6
+    Configure static files and wwwroot
+    
+    - Updated static file middleware
+    - Verified wwwroot path configuration
+    - Added local file serving options
+    - Set up BundleConfig for local development
     - Configured trusted certificates
     - Updated launch settings for HTTPS
