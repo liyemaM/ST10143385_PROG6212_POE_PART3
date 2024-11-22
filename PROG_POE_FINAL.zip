@@ -61,3 +61,12 @@
     - Updated authentication middleware
     - Added test user accounts
     - Configured authorization policies
+
+
+# Commit 9
+    Set up local email service
+    
+    - Configured SMTP settings for local testing
+    - Added email templates
+    - Set up email service mock for development
+    - Added email sending test utilities
