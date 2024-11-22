@@ -45,3 +45,11 @@
     - Set up BundleConfig for local development
     - Configured trusted certificates
     - Updated launch settings for HTTPS
+
+# Commit 7
+    Update dependency injection configuration
+    
+    - Registered local service implementations
+    - Updated service lifetimes
+    - Added development-specific services
+    - Configured logging for local environment
