@@ -29,3 +29,11 @@
     - Applied pending migrations to local database
     - Added initial seed data
     - Verified database connectivity
+
+# Commit 5
+    Update HTTPS certificate
+    
+    - Generated new development SSL certificate
+    - Updated IIS Express SSL port
+    - Configured trusted certificates
+    - Updated launch settings for HTTPS
